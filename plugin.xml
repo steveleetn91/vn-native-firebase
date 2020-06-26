@@ -60,7 +60,7 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 		<framework src="com.google.firebase:firebase-messaging:+" />
 		<framework src="com.google.firebase:firebase-config:+" />
 		<framework src="com.google.firebase:firebase-perf:+" />
-        <framework src="com.google.gms:google-services:4.3.3"/>
+        <framework src="com.google.android.gms:play-services-measurement-base:[[17.4.3,17.4.3], [17.0.0,17.0.0]"/>
 	</platform>
 
 	<platform name="ios">
